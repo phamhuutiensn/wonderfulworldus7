@@ -7,7 +7,7 @@ const router = express.Router();
  *
  * @return product list | empty.
  */
-var rootURL = "https://bvtvgk.com/";
+var rootURL = "https://brightkhabar.com/";
 
 var adapterForwtf111 = (function() {
   var url = require('url'),
